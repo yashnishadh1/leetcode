@@ -1,4 +1,29 @@
 {
   "schema_version": 1,
-  "problems": []
+  "problems": [
+    {
+      "question_id": "1462",
+      "title": "Course Schedule IV",
+      "slug": "course-schedule-iv",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/course-schedule-iv/",
+      "added_date": "2026-10-10",
+      "status": "new",
+      "my_attempt": "solutions/1462-course-schedule-iv/MY_ATTEMPT.md",
+      "revision_dates": [
+        "2026-10-11",
+        "2026-10-13",
+        "2026-10-17",
+        "2026-10-24",
+        "2026-11-09"
+      ],
+      "revision_status": {
+        "1": "pending",
+        "3": "pending",
+        "7": "pending",
+        "14": "pending",
+        "30": "pending"
+      }
+    }
+  ]
 }
