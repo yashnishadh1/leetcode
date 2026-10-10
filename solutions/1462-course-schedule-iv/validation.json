@@ -1,0 +1,13 @@
+{
+  "question_id": "1462",
+  "title": "Course Schedule IV",
+  "difficulty": "Medium",
+  "url": "https://leetcode.com/problems/course-schedule-iv/",
+  "static_validation": {
+    "python": [],
+    "java": [],
+    "cpp": []
+  },
+  "executed": false,
+  "leetcode_accepted": false
+}
